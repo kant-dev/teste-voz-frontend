@@ -33,11 +33,11 @@ Uma aplicação para gerenciar dados de carros com funcionalidades completas de 
 ### **Passo a Passo**
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/kant-dev/teste-voz-frontend
 
 2. **Acesse o diretório do projeto:**
    ```bash
-   cd pasta
+   cd teste-voz-frontend
 
 3. **Instale as dependencias com ```npm```:**
     ```
