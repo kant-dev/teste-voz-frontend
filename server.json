@@ -1,0 +1,72 @@
+{
+  "mustang": [
+    {
+      "model": "Mustang",
+      "year": 2015,
+      "maxSpeed": "180 Km/h",
+      "performance": {
+        "powerRating": 9,
+        "comfortRating": 8
+      },
+      "image": "mustang-1",
+      "id": "364c"
+    },
+    {
+      "model": "Mustang",
+      "year": 2015,
+      "maxSpeed": "180 Km/h",
+      "performance": {
+        "powerRating": 9,
+        "comfortRating": 8
+      },
+      "image": "mustang-2",
+      "id": "9206"
+    },
+    {
+      "model": "Mustang",
+      "year": 2015,
+      "maxSpeed": "180 Km/h",
+      "performance": {
+        "powerRating": 9,
+        "comfortRating": 8
+      },
+      "image": "mustang-3",
+      "id": "d3f9"
+    }
+  ],
+  "newmustang": [
+    {
+      "model": "Mustang ONE",
+      "year": 2023,
+      "maxSpeed": "250 km/h",
+      "performance": {
+        "powerRating": 8,
+        "comfortRating": 7
+      },
+      "image": "mustang",
+      "id": "d9a6"
+    },
+    {
+      "model": "Mustang Orbit",
+      "year": 2022,
+      "maxSpeed": "225 km/h",
+      "performance": {
+        "powerRating": 8,
+        "comfortRating": 9
+      },
+      "image": "mustang",
+      "id": "f2f0"
+    },
+    {
+      "id": "b10b",
+      "model": "mustang 1",
+      "year": 2023,
+      "maxSpeed": "290 km/h",
+      "performance": {
+        "powerRating": 5,
+        "comfortRating": 5
+      },
+      "image": "mustang"
+    }
+  ]
+}
