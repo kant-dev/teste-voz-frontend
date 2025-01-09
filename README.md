@@ -81,4 +81,5 @@ Uma aplicação para gerenciar dados de carros com funcionalidades completas de 
     
     O projeto estará acessível em: http://localhost:3000.
 
+**OBS: o crud se encontra na rota tabela**
 
